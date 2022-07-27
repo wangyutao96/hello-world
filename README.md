@@ -1,4 +1,4 @@
 # hello-world
-my first repo
+My first repo.
 
 Hello github, hello world.
