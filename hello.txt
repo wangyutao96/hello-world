@@ -1,5 +1,2 @@
-hello world
-
---
-
-revised manuscript
+Hello World! 
+Hello Github!
